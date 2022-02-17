@@ -1,12 +1,12 @@
 ﻿# spacecrypto-bot
 
 
-Requires Python 3<br />
-Precisa de Python 3
+Requires Python 3. Get it on https://www.python.org/downloads/<br />
+Precisa de Python 3. Download it on https://www.python.org/downloads/
 
 
-To install: download sorce code and on code folder type: `pip install -r .\requirements.txt` <br />
-Para instalar: baixe o código fonte e na pasta do código digite: `pip install -r .\requirements.txt`
+To install: download sorce code and on code folder type: `pip install -r requirements.txt` <br />
+Para instalar: baixe o código fonte e na pasta do código digite: `pip install -r requirements.txt`
 
 
 To execute the bot: `python spg.py` <br />
