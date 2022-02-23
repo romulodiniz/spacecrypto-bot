@@ -1,11 +1,13 @@
 ---
 
   time_intervals:
-    send_ships_for_work: 5
-    verify_lost_fight: 1
-    confirm_win: 1
-    check_for_login: 1
+    send_ships_for_work: 180
+    verify_lost_fight: 60
+    confirm_win: 5
+    check_for_login: 60
     interval_between_moviments: 1
+    check_game_crash: 2000
+    check_surrender_boss: 10
 
   threshold:
     default: 0.7
@@ -13,7 +15,12 @@
     select_wallet_buttons: 0.8
 
   scroll_size: 60
-  empty_scroll_attemps: 8
+  empty_scroll_attemps: 6
   use_click_and_drag_instead_of_scroll: true
-  click_and_drag_amount: 100
+  click_and_drag_amount: 90
+  min_ship_clicks: 13
+  restart_from_1_on_boss: true
+  reset_from_1_on_boss: false
+  boss_level_reset: 8
+
   
